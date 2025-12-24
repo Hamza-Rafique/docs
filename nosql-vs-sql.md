@@ -25,7 +25,7 @@ It means:
   "name": "Hamza",
   "skills": ["React", "Node"],
   "experience": 6
-}
+}```
 
 ### Used for:
 
